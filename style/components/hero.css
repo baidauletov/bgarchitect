@@ -1,0 +1,25 @@
+.hero {
+	position: relative;
+	margin-top: 55px;
+}
+
+.hero__img {
+	object-fit: cover;
+	width: 100%;
+}
+
+.hero__title {
+	position: absolute;
+	left: 40%;
+	top: 45%;
+}
+
+.hero__text {
+	display: inline-block;
+}
+
+.hero__text_span {
+	padding: 8px 16px;
+	background-color: rgba( 0, 0, 0, 0.6);
+	margin-right: 8px;
+}

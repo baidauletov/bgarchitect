@@ -1,0 +1,11 @@
+.footer {
+	height: 85px;
+	background-color: #000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.footer__link {
+	color: #fff;
+}

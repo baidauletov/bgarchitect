@@ -1,0 +1,33 @@
+.text-main {
+	font-style: Verdana , sans-serif;
+	line-height: 1.5;
+	color: #000;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.text-min {
+	font-size: 15px;
+}
+
+.text-mid {
+	font-size: 24px;
+}
+
+.text-max {
+	font-size: 36px;
+	color: #fff;
+}
+
+.text-bold {
+	font-weight: bold;
+}
+
+.text-letter {
+	letter-spacing: 4px;
+}
+
+.text-white {
+	color: #f1f1f1;
+}
+
